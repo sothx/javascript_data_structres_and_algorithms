@@ -14,3 +14,18 @@
 - [图](https://www.sothx.com/2021/04/17/Graph/)
 
 ## 算法相关文章
+- [堆排序](https://www.sothx.com/2021/04/13/heapSort/)
+- [广度优先搜索](https://www.sothx.com/2021/04/22/BreadthFirstSearch/)
+- [深度优先搜索](https://www.sothx.com/2021/04/23/DepthFirstSearch/)
+- [图的最短路径算法-Dijkstra算法](https://www.sothx.com/2021/04/23/Dijkstra/)
+- [图的最短路径算法-弗洛伊德算法](https://www.sothx.com/2021/04/24/Floyd-Warshall/)
+- [图的最小生成树算法-Prim算法](https://www.sothx.com/2021/04/26/Prim/)
+- [图的最小生成树算法-Kruskal算法](https://www.sothx.com/2021/04/27/Kruskal/)
+- [排序算法-冒泡排序](https://www.sothx.com/2021/04/27/bubbleSort/)
+- [选择排序](https://www.sothx.com/2021/04/27/selectionSort/)
+- [插入排序](https://www.sothx.com/2021/04/27/insertionSort/)
+- [归并排序](https://www.sothx.com/2021/04/27/mergeSort/)
+- [快速排序](https://www.sothx.com/2021/04/27/quickSort/)
+- [计数排序](https://www.sothx.com/2021/06/21/countingSort/)
+- [桶排序](https://www.sothx.com/2021/06/21/bucketSort/)
+- [基数排序](https://www.sothx.com/2021/06/21/radixSort/)
